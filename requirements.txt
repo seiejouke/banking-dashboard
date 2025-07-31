@@ -1,0 +1,12 @@
+ipykernel==6.30.0
+jupyter_client==8.6.3
+jupyter_core==5.8.1
+kaggle==1.7.4.5
+kagglehub==0.3.12
+matplotlib==3.10.3
+numpy==2.3.2
+pandas==2.3.1
+plotly==6.2.0
+requests==2.32.4
+seaborn==0.13.2
+tqdm==4.67.1
