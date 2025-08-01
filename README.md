@@ -6,14 +6,14 @@
 
 A simple, interactive Power BI dashboard project demonstrating a data analyst workflow: **data cleaning**, **exploration**, and **visualization** of personal bank transactions.
 
+The supplied dataset is from Kaggle: https://www.kaggle.com/datasets/abutalhadmaniyar/bank-statements-dataset
+
 ##  Project Overview
 
 This dashboard analyzes and visualizes bank statement data to help users:
 
 - **Track spending and income trends**
-- **Categorize expenses**
-- **Monitor account balances over time**
-- **Interactively filter and drill down into transaction data**
+- **Categorize expenses by method**
 
 Built with **Power BI** for dashboarding and **Python** (pandas, jupyter) for data cleaning. This project illustrates core data analyst skills in a practical context.
 
@@ -22,8 +22,6 @@ Built with **Power BI** for dashboarding and **Python** (pandas, jupyter) for da
 ##  Features
 
 - **Clear dashboard layout**: Visualizes balances, incomes, expenses, and trends
-- **Interactive filters**: Slice by category, date, or account
-- **Drill-down capability**: Explore individual transactions and aggregate summaries
 - **Custom visuals**: Bar charts, line graphs
 
 ---
